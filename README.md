@@ -1,2 +1,1 @@
-# Kenneth-Udoh
-Code Repository
+#Code Repository
